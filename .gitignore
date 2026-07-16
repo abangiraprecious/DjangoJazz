@@ -1,9 +1,3 @@
-### Git Ignore File (How to)
-In your project root
-
-touch .gitignore
-
-Add (and more):
 # Virtual environment
 venv/
 env/
