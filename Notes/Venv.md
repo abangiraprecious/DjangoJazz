@@ -14,17 +14,17 @@ Remember to install django in the venv
 which python3
 which pip3
 
-1. Install Django
+1. Install Django <br>
 python3 -m pip install Django==6.0.7 (or whatever version you want)
 
-2. Confirm 
+2. Confirm <br>
 python3 -m django --version
 
-3. Start project
+3. Start project <br>
 python3 -m django startproject oas_bay . 
 - oas_bay can be whatever project name you choose
 - the . puts the manage.py file outside (in the current folder) and not in the project folder
 
-4. Run server
+4. Run server <br>
 python3 manage.py runserver
 
